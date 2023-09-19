@@ -1,2 +1,2 @@
-# latihan-branch
-Latihan Perpindahan Branch
+# Latihan Perpindahan Branch
+Github Itu Asik Loo
