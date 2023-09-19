@@ -1,2 +1,2 @@
 # Latihan Perpindahan Branch
-Github Asik
+Belajar Github Di Dicoding Seru
